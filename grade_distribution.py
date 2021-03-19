@@ -145,29 +145,29 @@ todays_file=date_str+'_graded_'+bb_grades_file
 
 
 ## overall
-#print('')
-#print_grade_distribution(todays_file, 'Overall Course Grade Estimate [Total Pts: 100 Score] |3164280',False,False)
-#
-## unit 1 test
-#print('')
-#print_grade_distribution(todays_file, 'Unit 1 Test [Total Pts: 100 Score] |3164276',False,False)
-#
-## unit 2 test
-#print('')
-#print_grade_distribution(todays_file, 'Unit 2 Test [Total Pts: 100 Score] |3164292',False,False)
-#
-## mastery average
-#print('')
-#print_grade_distribution(todays_file, 'Mastery Problem Set Average [Total Pts: 100 Score] |3164274',False,True)
-#
-## worksheet average
-#print('')
-#print_grade_distribution(todays_file, 'Worksheet Average [Total Pts: 100 Score] |3164275',False,False)
+print('')
+print_grade_distribution(todays_file, 'Overall Course Grade Estimate [Total Pts: 100 Score] |3164280',False,False)
 
-## connect average
-#print('')
-#print_grade_distribution(todays_file, 'Connect Homework Average [Total Pts: 100 Score] |3164278',False,False)
-#
+# unit 1 test
+print('')
+print_grade_distribution(todays_file, 'Unit 1 Test [Total Pts: 100 Score] |3164276',False,False)
+
+# unit 2 test
+print('')
+print_grade_distribution(todays_file, 'Unit 2 Test [Total Pts: 100 Score] |3164292',False,False)
+
+# mastery average
+print('')
+print_grade_distribution(todays_file, 'Mastery Problem Set Average [Total Pts: 100 Score] |3164274',False,True)
+
+# worksheet average
+print('')
+print_grade_distribution(todays_file, 'Worksheet Average [Total Pts: 100 Score] |3164275',False,False)
+
+# connect average
+print('')
+print_grade_distribution(todays_file, 'Connect Homework Average [Total Pts: 100 Score] |3164278',False,False)
+
 # learnsmart average
 print('')
 print_grade_distribution(todays_file, 'LearnSmart Average [Total Pts: 100 Score] |3164277',False,False)

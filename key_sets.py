@@ -4,6 +4,7 @@ mastery_keys={'Mastery Problem Set 3: Numeration [Total Pts: 1 Score] |3153715',
 worksheet_keys={'Worksheet 1: Patterns and Sequences ','Worksheet 2: Problem solving and Sets and Venn diagrams','Worksheet 3: Numeration','Worksheet 6: Multiplication and Division of Integers','Worksheet 5: Addition and Subtraction of Whole Numbers'}
 unit1_test_key='Unit 1 Test'
 unit2_test_key='Unit 2 Test'
+extra_credit_keys={'Base Five Extra Credit Video [Total Pts: 2 Score] |3180062','Happy Slideshow Extra Credit [Total Pts: 1 Score] |3182984'}
 
 
 connect_hw_keys_without_5_1=connect_hw_keys
